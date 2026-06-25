@@ -77,3 +77,110 @@
 2026-06-25 11:31:22 INFO  - Data Driven Test COMPLETED!
 2026-06-25 11:31:30 INFO  - Browser closed successfully!
 2026-06-25 11:31:31 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 13:12:22 INFO  - Browser opened successfully!
+2026-06-25 13:12:22 INFO  - Navigated to automationexercise.com
+2026-06-25 13:12:23 INFO  - Extent Report initialized!
+2026-06-25 13:12:29 INFO  - Browser closed successfully!
+2026-06-25 13:12:30 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 13:19:53 INFO  - Browser opened successfully!
+2026-06-25 13:19:53 INFO  - Navigated to automationexercise.com
+2026-06-25 13:19:55 INFO  - Extent Report initialized!
+2026-06-25 13:20:03 INFO  - Browser closed successfully!
+2026-06-25 13:20:04 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 13:23:50 INFO  - Browser opened successfully!
+2026-06-25 13:23:50 INFO  - Navigated to automationexercise.com
+2026-06-25 13:23:51 INFO  - Extent Report initialized!
+2026-06-25 13:24:01 INFO  - Total register test rows: 2
+2026-06-25 13:24:01 INFO  - =============================
+2026-06-25 13:24:01 INFO  - Running Test: Valid Registration
+2026-06-25 13:24:37 WARN  - Registration failed: Valid Registration
+2026-06-25 13:24:38 INFO  - =============================
+2026-06-25 13:24:38 INFO  - Running Test: Missing Name
+2026-06-25 13:25:27 WARN  - Registration failed: Missing Name
+2026-06-25 13:25:28 INFO  - Register Test COMPLETED!
+2026-06-25 13:25:32 INFO  - Browser closed successfully!
+2026-06-25 13:25:33 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 13:51:36 INFO  - Browser opened successfully!
+2026-06-25 13:51:36 INFO  - Navigated to automationexercise.com
+2026-06-25 13:51:39 INFO  - Extent Report initialized!
+2026-06-25 13:51:44 INFO  - Total register test rows: 2
+2026-06-25 13:51:44 INFO  - =============================
+2026-06-25 13:51:44 INFO  - Running Test: Valid Registration
+2026-06-25 13:53:15 INFO  - Registration PASSED: Valid Registration
+2026-06-25 13:53:25 WARN  - Registration failed: Valid Registration
+2026-06-25 13:53:26 INFO  - =============================
+2026-06-25 13:53:26 INFO  - Running Test: Missing Name
+2026-06-25 13:54:53 WARN  - Registration failed: Missing Name
+2026-06-25 13:54:55 INFO  - Register Test COMPLETED!
+2026-06-25 13:55:51 INFO  - Browser closed successfully!
+2026-06-25 13:55:54 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 16:57:05 INFO  - Browser opened successfully!
+2026-06-25 16:57:05 INFO  - Navigated to automationexercise.com
+2026-06-25 16:57:06 INFO  - Extent Report initialized!
+2026-06-25 16:57:10 INFO  - Total register test rows: 2
+2026-06-25 16:57:10 INFO  - =============================
+2026-06-25 16:57:10 INFO  - Running Test: Valid Registrati
+2026-06-25 16:57:57 WARN  - Registration failed: Valid Registrati
+2026-06-25 16:57:58 INFO  - =============================
+2026-06-25 16:57:58 INFO  - Running Test: Missing Name
+2026-06-25 16:58:37 WARN  - Registration failed: Missing Name
+2026-06-25 16:58:38 INFO  - Register Test COMPLETED!
+2026-06-25 16:58:42 INFO  - Browser closed successfully!
+2026-06-25 16:58:43 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 17:02:09 INFO  - Browser opened successfully!
+2026-06-25 17:02:09 INFO  - Navigated to automationexercise.com
+2026-06-25 17:02:10 INFO  - Extent Report initialized!
+2026-06-25 17:02:13 INFO  - Total register test rows: 2
+2026-06-25 17:02:13 INFO  - =============================
+2026-06-25 17:02:13 INFO  - Running Test: Valid Registrati
+2026-06-25 17:03:28 INFO  - Registration PASSED: Valid Registrati
+2026-06-25 17:03:38 WARN  - Registration failed: Valid Registrati
+2026-06-25 17:03:38 INFO  - =============================
+2026-06-25 17:03:38 INFO  - Running Test: Missing Name
+2026-06-25 17:04:58 WARN  - Registration failed: Missing Name
+2026-06-25 17:04:59 INFO  - Register Test COMPLETED!
+2026-06-25 17:05:00 INFO  - Browser closed successfully!
+2026-06-25 17:05:01 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 17:13:02 INFO  - Browser opened successfully!
+2026-06-25 17:13:02 INFO  - Navigated to automationexercise.com
+2026-06-25 17:13:05 INFO  - Extent Report initialized!
+2026-06-25 17:13:10 INFO  - Total register test rows: 2
+2026-06-25 17:13:10 INFO  - =============================
+2026-06-25 17:13:10 INFO  - Running Test: Valid Registrati
+2026-06-25 17:14:45 INFO  - Registration PASSED: Valid Registrati
+2026-06-25 17:15:54 INFO  - Clicked continue button
+2026-06-25 17:15:58 INFO  - Account deleted after test
+2026-06-25 17:15:58 INFO  - =============================
+2026-06-25 17:15:58 INFO  - Running Test: Missing Name
+2026-06-25 17:16:47 WARN  - Registration failed: Missing Name
+2026-06-25 17:16:50 INFO  - Register Test COMPLETED!
+2026-06-25 17:16:58 INFO  - Browser closed successfully!
+2026-06-25 17:16:59 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 17:32:18 INFO  - Config loaded — Environment: QA
+2026-06-25 17:33:08 INFO  - Browser opened: https://automationexercise.com
+2026-06-25 17:33:09 INFO  - Extent Report initialized!
+2026-06-25 17:33:15 INFO  - Browser closed successfully!
+2026-06-25 17:33:17 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 17:35:04 INFO  - Config loaded — Environment: QA
+2026-06-25 17:35:43 INFO  - Browser opened: https://automationexercise.com
+2026-06-25 17:35:44 INFO  - Extent Report initialized!
+2026-06-25 17:35:48 INFO  - Total test rows: 3
+2026-06-25 17:35:48 INFO  - =============================
+2026-06-25 17:35:48 INFO  - Running Test: Valid Login
+2026-06-25 17:35:48 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 17:37:21 INFO  - Completed: Valid Login
+2026-06-25 17:37:22 INFO  - Logged out successfully
+2026-06-25 17:37:22 INFO  - =============================
+2026-06-25 17:37:22 INFO  - Running Test: Invalid Email
+2026-06-25 17:37:22 INFO  - Email: wrongemail@gmail.com
+2026-06-25 17:38:31 INFO  - Completed: Invalid Email
+2026-06-25 17:38:41 WARN  - Login failed as expected: Invalid Email
+2026-06-25 17:38:41 INFO  - =============================
+2026-06-25 17:38:41 INFO  - Running Test: Invalid Password
+2026-06-25 17:38:41 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 17:38:56 INFO  - Completed: Invalid Password
+2026-06-25 17:39:06 WARN  - Login failed as expected: Invalid Password
+2026-06-25 17:39:06 INFO  - =============================
+2026-06-25 17:39:06 INFO  - Data Driven Test COMPLETED!
+2026-06-25 17:39:09 INFO  - Browser closed successfully!
+2026-06-25 17:39:10 INFO  - Report saved to reports/AutomationReport.html

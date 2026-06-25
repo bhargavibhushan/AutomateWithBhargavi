@@ -15,7 +15,8 @@ public class ExcelUtils {
             throws IOException {
         FileInputStream fis = new FileInputStream(filePath);
         workbook = new XSSFWorkbook(fis);
-        sheet = workbook.getSheet(sheetName);
+        sheet = workbook.getSheet(sheetName.trim());
+        System.out.println("Sheet found: " + sheet);
     }
 
     public static int getRowCount() {

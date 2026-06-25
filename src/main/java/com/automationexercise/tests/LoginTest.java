@@ -15,6 +15,7 @@ import com.automationexercise.utils.ExcelUtils;
 import com.automationexercise.utils.ExtentReportManager;
 import com.aventstack.extentreports.ExtentTest;
 import com.automationexercise.utils.ScreenshotUtils;
+import com.automationexercise.utils.ConfigReader;
 
 import java.time.Duration;
 
@@ -33,7 +34,7 @@ public class LoginTest extends BaseClass {
 
         ExcelUtils.openExcel(
             "src/main/resources/testdata/logindata.xlsx",
-            "Sheet1"
+            "LoginData"
         );
 
         int rowCount = ExcelUtils.getRowCount();
@@ -51,6 +52,17 @@ public class LoginTest extends BaseClass {
 
             log.info("=============================");
             log.info("Running Test: " + testcase);
+         // Override with config values if needed
+            if (testcase.equals("Valid Login")) {
+                email = ConfigReader.getValidEmail();
+                password = ConfigReader.getValidPassword();
+            } else if (testcase.equals("Invalid Email")) {
+                email = ConfigReader.getInvalidEmail();
+                password = ConfigReader.getValidPassword();
+            } else if (testcase.equals("Invalid Password")) {
+                email = ConfigReader.getValidEmail();
+                password = ConfigReader.getInvalidPassword();
+            }
             log.info("Email: " + email);
             extentTest.info("Running: " + testcase + " | Email: " + email);
             

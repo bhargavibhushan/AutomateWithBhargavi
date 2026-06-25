@@ -12,8 +12,8 @@
 
 ## 📌 About This Project
 
-This framework automates the AutomationExercise.com e-commerce application — covering login, registration, product search, cart and checkout test scenarios.
-Built with a focus on clean architecture, reusability and maintainability — following industry best practices including Page Object Model, Data Driven Testing, structured logging and automated reporting.
+This framework automates the AutomationExercise.com e-commerce application. covering login, registration, product search, cart and checkout test scenarios.
+Built with a focus on clean architecture, reusability and maintainability, following industry best practices including Page Object Model, Data Driven Testing, structured logging and automated reporting.
 
 ---
 

@@ -186,21 +186,13 @@ The ExtentReport shows:
 
 ---
 
-## 📈 3 Year Roadmap
-
-- ✅ **Phase 1 (Now)** — Selenium Hybrid Framework
-- 🔄 **Phase 2 (Month 2)** — REST Assured API Testing
-- 🔄 **Phase 3 (Month 3)** — Jenkins CI/CD Integration
-- 🔄 **Phase 4 (Month 4)** — Docker + Selenium Grid
-
----
 
 ## 👩‍💻 About Me
 
 **Bhargavi Bhushan**
 QA Automation Engineer | Bangalore
 
-- 8+ years experience across software development, manual testing and enterprise system validation
+- 6+ years experience across software development, manual testing and enterprise system validation
 - 3 years UI testing experience
 - Currently building automation expertise with Selenium Java
 - Looking for QA Automation Engineer roles in Bangalore

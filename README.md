@@ -12,9 +12,8 @@
 
 ## 📌 About This Project
 
-This framework automates the **AutomationExercise.com** e-commerce application — covering login, registration, product search, cart and checkout flows.
-
-The framework demonstrates **3 years of automation experience** with industry-standard tools and best practices used in MNC companies.
+This framework automates the AutomationExercise.com e-commerce application. covering login, registration, product search, cart and checkout test scenarios.
+Built with a focus on clean architecture, reusability and maintainability, following industry best practices including Page Object Model, Data Driven Testing, structured logging and automated reporting.
 
 ---
 
@@ -186,25 +185,19 @@ The ExtentReport shows:
 
 ---
 
-## 📈 3 Year Roadmap
-
-- ✅ **Phase 1 (Now)** — Selenium Hybrid Framework
-- 🔄 **Phase 2 (Month 2)** — REST Assured API Testing
-- 🔄 **Phase 3 (Month 3)** — Jenkins CI/CD Integration
-- 🔄 **Phase 4 (Month 4)** — Docker + Selenium Grid
-
----
 
 ## 👩‍💻 About Me
 
-**Bhargavi Bhushan**
-QA Automation Engineer | Bangalore
+**Bhargavi**
+Software Engineer | Bangalore
 
-- 8+ years experience across software development, manual testing and enterprise system validation
-- 3 years UI testing experience
-- Currently building automation expertise with Selenium Java
-- Looking for QA Automation Engineer roles in Bangalore
-
+- 6+ years experience across software development, manual testing and enterprise system validation
+- Strong foundation in manual testing with 
+  hands-on automation using Selenium Java
+- Experience testing government fund management 
+  systems, e-commerce and HR applications
+- Passionate about building clean, 
+  maintainable test automation frameworks
 ---
 
 ## 📬 Contact

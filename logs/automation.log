@@ -1,0 +1,79 @@
+2026-06-23 17:48:17 INFO  - Browser opened successfully!
+2026-06-23 17:48:17 INFO  - Navigated to automationexercise.com
+2026-06-23 17:48:21 INFO  - Total test rows: 3
+2026-06-23 17:48:21 INFO  - =============================
+2026-06-23 17:48:21 INFO  - Running Test: Valid Login
+2026-06-23 17:48:21 INFO  - Email: kotianbs4@gmail.com
+2026-06-23 17:48:50 INFO  - Completed: Valid Login
+2026-06-23 17:48:52 INFO  - Logged out successfully
+2026-06-23 17:48:52 INFO  - =============================
+2026-06-23 17:48:52 INFO  - Running Test: Invalid Email
+2026-06-23 17:48:52 INFO  - Email: wrongemail@gmail.com
+2026-06-23 17:50:06 INFO  - Browser closed successfully!
+2026-06-23 17:54:53 INFO  - Browser opened successfully!
+2026-06-23 17:54:53 INFO  - Navigated to automationexercise.com
+2026-06-23 17:54:58 INFO  - Total test rows: 3
+2026-06-23 17:54:58 INFO  - =============================
+2026-06-23 17:54:58 INFO  - Running Test: Valid Login
+2026-06-23 17:54:58 INFO  - Email: kotianbs4@gmail.com
+2026-06-23 17:55:52 INFO  - Completed: Valid Login
+2026-06-23 17:55:59 INFO  - Logged out successfully
+2026-06-23 17:55:59 INFO  - =============================
+2026-06-23 17:55:59 INFO  - Running Test: Invalid Email
+2026-06-23 17:55:59 INFO  - Email: wrongemail@gmail.com
+2026-06-23 17:56:13 INFO  - Completed: Invalid Email
+2026-06-23 17:56:23 WARN  - Login failed as expected: Invalid Email
+2026-06-23 17:56:23 INFO  - =============================
+2026-06-23 17:56:23 INFO  - Running Test: Invalid Password
+2026-06-23 17:56:23 INFO  - Email: kotianbs4@gmail.com
+2026-06-23 17:56:32 INFO  - Completed: Invalid Password
+2026-06-23 17:56:42 WARN  - Login failed as expected: Invalid Password
+2026-06-23 17:56:42 INFO  - =============================
+2026-06-23 17:56:42 INFO  - Data Driven Test COMPLETED!
+2026-06-23 17:56:44 INFO  - Browser closed successfully!
+2026-06-25 11:14:41 INFO  - Browser opened successfully!
+2026-06-25 11:14:41 INFO  - Navigated to automationexercise.com
+2026-06-25 11:14:43 INFO  - Extent Report initialized!
+2026-06-25 11:14:47 INFO  - Total test rows: 3
+2026-06-25 11:14:47 INFO  - =============================
+2026-06-25 11:14:47 INFO  - Running Test: Valid Login
+2026-06-25 11:14:47 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 11:15:50 INFO  - Completed: Valid Login
+2026-06-25 11:16:00 INFO  - Logged out successfully
+2026-06-25 11:16:00 INFO  - =============================
+2026-06-25 11:16:00 INFO  - Running Test: Invalid Email
+2026-06-25 11:16:00 INFO  - Email: wrongemail@gmail.com
+2026-06-25 11:16:10 INFO  - Completed: Invalid Email
+2026-06-25 11:16:21 WARN  - Login failed as expected: Invalid Email
+2026-06-25 11:16:21 INFO  - =============================
+2026-06-25 11:16:21 INFO  - Running Test: Invalid Password
+2026-06-25 11:16:21 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 11:16:26 INFO  - Completed: Invalid Password
+2026-06-25 11:16:36 WARN  - Login failed as expected: Invalid Password
+2026-06-25 11:16:36 INFO  - =============================
+2026-06-25 11:16:36 INFO  - Data Driven Test COMPLETED!
+2026-06-25 11:16:38 INFO  - Browser closed successfully!
+2026-06-25 11:16:39 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 11:28:45 INFO  - Browser opened successfully!
+2026-06-25 11:28:45 INFO  - Navigated to automationexercise.com
+2026-06-25 11:28:47 INFO  - Extent Report initialized!
+2026-06-25 11:28:50 INFO  - Total test rows: 3
+2026-06-25 11:28:50 INFO  - =============================
+2026-06-25 11:28:50 INFO  - Running Test: Valid Login
+2026-06-25 11:28:50 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 11:29:44 INFO  - Completed: Valid Login
+2026-06-25 11:30:33 INFO  - Logged out successfully
+2026-06-25 11:30:33 INFO  - =============================
+2026-06-25 11:30:33 INFO  - Running Test: Invalid Email
+2026-06-25 11:30:33 INFO  - Email: wrongemail@gmail.com
+2026-06-25 11:30:50 INFO  - Completed: Invalid Email
+2026-06-25 11:31:00 WARN  - Login failed as expected: Invalid Email
+2026-06-25 11:31:01 INFO  - =============================
+2026-06-25 11:31:01 INFO  - Running Test: Invalid Password
+2026-06-25 11:31:01 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 11:31:11 INFO  - Completed: Invalid Password
+2026-06-25 11:31:22 WARN  - Login failed as expected: Invalid Password
+2026-06-25 11:31:22 INFO  - =============================
+2026-06-25 11:31:22 INFO  - Data Driven Test COMPLETED!
+2026-06-25 11:31:30 INFO  - Browser closed successfully!
+2026-06-25 11:31:31 INFO  - Report saved to reports/AutomationReport.html

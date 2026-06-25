@@ -189,8 +189,8 @@ The ExtentReport shows:
 
 ## 👩‍💻 About Me
 
-**Bhargavi Bhushan**
-QA Automation Engineer | Bangalore
+**Bhargavi**
+Software Engineer | Bangalore
 
 - 6+ years experience across software development, manual testing and enterprise system validation
 - 3 years UI testing experience

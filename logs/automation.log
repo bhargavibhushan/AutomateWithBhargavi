@@ -322,3 +322,142 @@
 2026-06-25 22:43:36 INFO  - Register Test COMPLETED!
 2026-06-25 22:43:39 INFO  - Browser closed for: RegisterTest
 2026-06-25 22:43:39 INFO  - Report saved!
+2026-06-26 14:06:52 INFO  - Config loaded — Environment: QA
+2026-06-26 14:06:52 INFO  - Browser: chrome
+2026-06-26 14:08:37 INFO  - Browser opened on Grid: chrome
+2026-06-26 14:08:47 INFO  - Extent Report initialized!
+2026-06-26 14:09:10 INFO  - Total test rows: 3
+2026-06-26 14:09:10 INFO  - =============================
+2026-06-26 14:09:10 INFO  - Running Test: Valid Login
+2026-06-26 14:09:10 INFO  - Email: kotianbs4@gmail.com
+2026-06-26 14:10:16 INFO  - Completed: Valid Login
+2026-06-26 14:10:23 INFO  - Logged out successfully
+2026-06-26 14:10:23 INFO  - =============================
+2026-06-26 14:10:23 INFO  - Running Test: Invalid Email
+2026-06-26 14:10:23 INFO  - Email: wrongemail@gmail.com
+2026-06-26 14:10:50 INFO  - Completed: Invalid Email
+2026-06-26 14:11:01 WARN  - Login failed as expected: Invalid Email
+2026-06-26 14:11:04 INFO  - =============================
+2026-06-26 14:11:04 INFO  - Running Test: Invalid Password
+2026-06-26 14:11:04 INFO  - Email: kotianbs4@gmail.com
+2026-06-26 14:11:25 INFO  - Completed: Invalid Password
+2026-06-26 14:11:36 WARN  - Login failed as expected: Invalid Password
+2026-06-26 14:11:36 INFO  - =============================
+2026-06-26 14:11:36 INFO  - Data Driven Test COMPLETED!
+2026-06-26 14:11:38 INFO  - Browser closed on Grid!
+2026-06-26 14:11:39 INFO  - Report saved!
+2026-06-26 14:11:39 INFO  - Config loaded — Environment: QA
+2026-06-26 14:11:39 INFO  - Browser: chrome
+2026-06-26 14:14:30 INFO  - Browser opened on Grid: chrome
+2026-06-26 14:14:30 INFO  - Extent Report initialized!
+2026-06-26 14:14:33 INFO  - Total register test rows: 2
+2026-06-26 14:14:34 INFO  - =============================
+2026-06-26 14:14:34 INFO  - Running Test: Valid Registrati
+2026-06-26 14:17:06 INFO  - Registration PASSED: Valid Registrati
+2026-06-26 14:18:11 INFO  - Clicked continue button
+2026-06-26 14:18:55 INFO  - Account deleted after test
+2026-06-26 14:18:55 INFO  - =============================
+2026-06-26 14:18:55 INFO  - Running Test: Missing Name
+2026-06-26 14:20:13 INFO  - Config loaded — Environment: QA
+2026-06-26 14:20:13 INFO  - Config loaded — Environment: QA
+2026-06-26 14:20:13 INFO  - Config loaded — Environment: QA
+2026-06-26 14:20:13 INFO  - Browser: chrome
+2026-06-26 14:20:13 INFO  - Browser: firefox
+2026-06-26 14:20:13 INFO  - Browser: edge
+2026-06-26 14:23:31 ERROR - Grid connection failed: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-AL8F7Q9', ip: '192.168.15.94'
+2026-06-26 14:23:34 ERROR - Grid connection failed: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-AL8F7Q9', ip: '192.168.15.94'
+2026-06-26 14:23:29 ERROR - Grid connection failed: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-AL8F7Q9', ip: '192.168.15.94'
+2026-06-26 14:35:53 INFO  - Environment: QA
+2026-06-26 14:35:53 INFO  - Browser: firefox
+2026-06-26 14:35:53 INFO  - Environment: QA
+2026-06-26 14:35:53 INFO  - Browser: edge
+2026-06-26 14:35:53 INFO  - Environment: QA
+2026-06-26 14:35:53 INFO  - Browser: chrome
+2026-06-26 14:35:53 ERROR - Grid connection failed: Cannot invoke "String.length()" because "this.input" is null
+2026-06-26 14:35:53 ERROR - Grid connection failed: Cannot invoke "String.length()" because "this.input" is null
+2026-06-26 14:35:53 ERROR - Grid connection failed: Cannot invoke "String.length()" because "this.input" is null
+2026-06-26 14:37:32 INFO  - Environment: QA
+2026-06-26 14:37:32 INFO  - Environment: QA
+2026-06-26 14:37:32 INFO  - Environment: QA
+2026-06-26 14:37:32 INFO  - Browser: chrome
+2026-06-26 14:37:32 INFO  - Browser: firefox
+2026-06-26 14:37:32 INFO  - Browser: edge
+2026-06-26 14:39:25 INFO  - Browser opened on Grid: edge
+2026-06-26 14:39:29 INFO  - Extent Report initialized!
+2026-06-26 14:39:37 INFO  - Total test rows: 3
+2026-06-26 14:39:37 INFO  - =============================
+2026-06-26 14:39:37 INFO  - Running Test: Valid Login
+2026-06-26 14:39:37 INFO  - Email: kotianbs4@gmail.com
+2026-06-26 14:40:38 ERROR - Grid connection failed: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-AL8F7Q9', ip: '192.168.15.94'
+2026-06-26 14:40:40 ERROR - Grid connection failed: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-AL8F7Q9', ip: '192.168.15.94'
+2026-06-26 14:45:07 INFO  - Environment: QA
+2026-06-26 14:45:07 INFO  - Browser: chrome
+2026-06-26 14:45:07 INFO  - Environment: QA
+2026-06-26 14:45:07 INFO  - Browser: edge
+2026-06-26 14:45:07 INFO  - Environment: QA
+2026-06-26 14:45:07 INFO  - Browser: firefox
+2026-06-26 14:48:13 ERROR - Grid connection failed: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-AL8F7Q9', ip: '192.168.15.94'
+2026-06-26 14:57:39 INFO  - Environment: QA
+2026-06-26 14:57:39 INFO  - Environment: QA
+2026-06-26 14:57:39 INFO  - Environment: QA
+2026-06-26 14:57:39 INFO  - Browser: edge
+2026-06-26 14:57:39 INFO  - Browser: firefox
+2026-06-26 14:57:39 INFO  - Browser: chrome
+2026-06-26 14:58:07 INFO  - Browser opened on Grid: chrome
+2026-06-26 14:58:15 INFO  - Extent Report initialized!
+2026-06-26 14:58:37 INFO  - Total test rows: 3
+2026-06-26 14:58:38 INFO  - =============================
+2026-06-26 14:58:38 INFO  - Running Test: Valid Login
+2026-06-26 14:58:38 INFO  - Email: kotianbs4@gmail.com
+2026-06-26 14:58:45 INFO  - Browser opened on Grid: edge
+2026-06-26 14:58:45 INFO  - Extent Report initialized!
+2026-06-26 14:58:46 INFO  - Total test rows: 3
+2026-06-26 14:58:46 INFO  - =============================
+2026-06-26 14:58:46 INFO  - Running Test: Valid Login
+2026-06-26 14:58:46 INFO  - Email: kotianbs4@gmail.com
+2026-06-26 15:01:07 INFO  - Completed: Valid Login
+2026-06-26 15:01:20 INFO  - Logged out successfully
+2026-06-26 15:01:20 INFO  - =============================
+2026-06-26 15:01:20 INFO  - Running Test: Invalid Email
+2026-06-26 15:01:20 INFO  - Email: wrongemail@gmail.com
+2026-06-26 15:01:47 INFO  - Browser opened on Grid: firefox
+2026-06-26 15:01:47 INFO  - Extent Report initialized!
+2026-06-26 15:01:48 INFO  - Total test rows: 3
+2026-06-26 15:01:48 INFO  - =============================
+2026-06-26 15:01:48 INFO  - Running Test: Valid Login
+2026-06-26 15:01:48 INFO  - Email: kotianbs4@gmail.com
+2026-06-26 15:01:51 INFO  - Completed: Invalid Email
+2026-06-26 15:02:03 WARN  - Login failed as expected: Invalid Email
+2026-06-26 15:02:06 INFO  - =============================
+2026-06-26 15:02:06 INFO  - Running Test: Invalid Password
+2026-06-26 15:02:06 INFO  - Email: kotianbs4@gmail.com
+2026-06-26 15:02:35 INFO  - Completed: Invalid Password
+2026-06-26 15:02:45 WARN  - Login failed as expected: Invalid Password
+2026-06-26 15:02:46 INFO  - =============================
+2026-06-26 15:02:46 INFO  - Data Driven Test COMPLETED!
+2026-06-26 15:02:52 INFO  - Completed: Valid Login
+2026-06-26 15:03:08 INFO  - Browser closed on Grid!
+2026-06-26 15:03:11 INFO  - Report saved!
+2026-06-26 15:03:40 INFO  - Logged out successfully
+2026-06-26 15:03:40 INFO  - =============================
+2026-06-26 15:03:40 INFO  - Running Test: Invalid Email
+2026-06-26 15:03:40 INFO  - Email: wrongemail@gmail.com
+2026-06-26 15:04:12 INFO  - Completed: Invalid Email
+2026-06-26 15:04:29 WARN  - Login failed as expected: Invalid Email
+2026-06-26 15:04:29 INFO  - =============================
+2026-06-26 15:04:29 INFO  - Running Test: Invalid Password
+2026-06-26 15:04:29 INFO  - Email: kotianbs4@gmail.com
+2026-06-26 15:05:53 INFO  - Completed: Invalid Password
+2026-06-26 15:06:05 WARN  - Login failed as expected: Invalid Password
+2026-06-26 15:06:10 INFO  - =============================
+2026-06-26 15:06:10 INFO  - Data Driven Test COMPLETED!
+2026-06-26 15:06:39 INFO  - Browser closed on Grid!
+2026-06-26 15:06:40 INFO  - Report saved!
+2026-06-26 15:07:33 INFO  - Browser closed on Grid!
+2026-06-26 15:07:34 INFO  - Report saved!

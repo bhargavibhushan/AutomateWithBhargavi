@@ -27,7 +27,9 @@ public class ConfigReader {
         }
         return prop.getProperty(key);
     }
-
+    public static String getGridUrl() {
+        return get("gridUrl");
+    }
     // Specific methods for easy access
     public static String getBaseUrl() {
         return get("baseUrl");

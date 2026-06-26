@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="Automation Suite" parallel="none">
+<suite name="Cross Browser Suite" parallel="tests" thread-count="3">
 
-    <test name="All Tests">
+    <!-- Chrome - Login and Register -->
+    <test name="Chrome Tests">
+        <parameter name="browser" value="chrome"/>
         <classes>
             <class name="com.automationexercise.tests.LoginTest">
                 <methods>
                     <include name="testLoginWithExcelData"/>
                 </methods>
             </class>
-            <class name="com.automationexercise.tests.RegisterTest">
+        </classes>
+    </test>
+
+    <!-- Firefox - Login -->
+    <test name="Firefox Tests">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="com.automationexercise.tests.LoginTest">
                 <methods>
-                    <include name="testRegisterWithExcelData"/>
+                    <include name="testLoginWithExcelData"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <!-- Edge - Login -->
+    <test name="Edge Tests">
+        <parameter name="browser" value="edge"/>
+        <classes>
+            <class name="com.automationexercise.tests.LoginTest">
+                <methods>
+                    <include name="testLoginWithExcelData"/>
                 </methods>
             </class>
         </classes>

@@ -42,7 +42,7 @@ public class LoginTest extends BaseClass {
         extentTest.info("Total test rows: " + rowCount);
 
         WebDriverWait wait = new WebDriverWait(
-            driver, Duration.ofSeconds(30));
+            getDriver(), Duration.ofSeconds(30));
 
         for (int i = 1; i <= rowCount; i++) {
 
@@ -67,14 +67,14 @@ public class LoginTest extends BaseClass {
             extentTest.info("Running: " + testcase + " | Email: " + email);
             
             //clear cookies and navigate fresh
-            driver.manage().deleteAllCookies();
-            driver.get("https://automationexercise.com/login");
+            getDriver().manage().deleteAllCookies();
+            getDriver().get("https://automationexercise.com/login");
 
             wait.until(ExpectedConditions.visibilityOfElementLocated(
                 By.xpath("//input[@data-qa='login-email']")
             ));
 
-            loginPage = new LoginPage(driver);
+            loginPage = new LoginPage(getDriver());
             loginPage.enterEmail(email);
             loginPage.enterPassword(password);
             loginPage.clickLoginButton();
@@ -90,7 +90,7 @@ public class LoginTest extends BaseClass {
             log.info("Completed: " + testcase);
 
             try {
-                driver.findElement(
+                getDriver().findElement(
                     By.xpath("//a[@href='/logout']")).click();
                 log.info("Logged out successfully");
                 extentTest.pass("✅ Login PASSED: " + testcase);
@@ -99,7 +99,7 @@ public class LoginTest extends BaseClass {
 
                 // Take screenshot on failure
                 String screenshotPath = ScreenshotUtils
-                    .captureScreenshot(driver, testcase);
+                    .captureScreenshot(getDriver(), testcase);
 
                 // Attach screenshot to report
                 extentTest.warning("⚠️ Login failed as expected: " + testcase);

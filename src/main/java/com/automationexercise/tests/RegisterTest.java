@@ -42,7 +42,7 @@ public class RegisterTest extends BaseClass {
         extentTest.info("Total test rows: " + rowCount);
 
         WebDriverWait wait = new WebDriverWait(
-            driver, Duration.ofSeconds(30));
+            getDriver(), Duration.ofSeconds(30));
 
         for (int i = 1; i <= rowCount; i++) {
 
@@ -66,15 +66,15 @@ public class RegisterTest extends BaseClass {
             extentTest.info("Running: " + testcase + " | Email: " + email);
 
             // Clear cookies and go to login page
-            driver.manage().deleteAllCookies();
-            driver.get("https://automationexercise.com/login");
+            getDriver().manage().deleteAllCookies();
+            getDriver().get("https://automationexercise.com/login");
 
             // Wait for signup name field
             wait.until(ExpectedConditions.visibilityOfElementLocated(
                 By.xpath("//input[@data-qa='signup-name']")
             ));
 
-            registerPage = new RegisterPage(driver);
+            registerPage = new RegisterPage(getDriver());
 
             // Enter name and email
             registerPage.enterName(name);
@@ -87,7 +87,7 @@ public class RegisterTest extends BaseClass {
             		    By.id("password")
             		));
                 // Fill registration form
-                registerPage = new RegisterPage(driver);
+                registerPage = new RegisterPage(getDriver());
                 registerPage.enterPassword(password);
                 registerPage.enterNameFirstName(firstname);
                 registerPage.enterNameLastName(lastname);
@@ -122,7 +122,7 @@ public class RegisterTest extends BaseClass {
 
                 // Click continue button first
                 try {
-                    driver.findElement(
+                    getDriver().findElement(
                         By.xpath("//a[@data-qa='continue-button']")).click();
                     log.info("Clicked continue button");
                 } catch (Exception ex) {
@@ -133,7 +133,7 @@ public class RegisterTest extends BaseClass {
                 try {
                     wait.until(ExpectedConditions.visibilityOfElementLocated(
                         By.xpath("//a[@href='/delete_account']")));
-                    driver.findElement(
+                    getDriver().findElement(
                         By.xpath("//a[@href='/delete_account']")).click();
                     log.info("Account deleted after test");
                     extentTest.info("Account deleted successfully");
@@ -146,7 +146,7 @@ public class RegisterTest extends BaseClass {
 
                 // Take screenshot on failure
                 String screenshotPath = ScreenshotUtils
-                    .captureScreenshot(driver, testcase);
+                    .captureScreenshot(getDriver(), testcase);
 
                 extentTest.warning("⚠️ Registration failed: " + testcase);
                 extentTest.addScreenCaptureFromPath(

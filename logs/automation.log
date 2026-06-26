@@ -184,3 +184,141 @@
 2026-06-25 17:39:06 INFO  - Data Driven Test COMPLETED!
 2026-06-25 17:39:09 INFO  - Browser closed successfully!
 2026-06-25 17:39:10 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 17:51:39 INFO  - Config loaded — Environment: QA
+2026-06-25 17:52:47 INFO  - Browser opened: https://automationexercise.com
+2026-06-25 17:52:53 INFO  - Extent Report initialized!
+2026-06-25 17:53:01 INFO  - Total test rows: 3
+2026-06-25 17:53:01 INFO  - =============================
+2026-06-25 17:53:01 INFO  - Running Test: Valid Login
+2026-06-25 17:53:01 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 17:53:02 INFO  - Total register test rows: 2
+2026-06-25 17:53:03 INFO  - =============================
+2026-06-25 17:53:03 INFO  - Running Test: Valid Registrati
+2026-06-25 17:55:01 INFO  - Registration PASSED: Valid Registrati
+2026-06-25 17:55:27 INFO  - Clicked continue button
+2026-06-25 17:55:32 INFO  - Account deleted after test
+2026-06-25 17:55:32 INFO  - =============================
+2026-06-25 17:55:32 INFO  - Running Test: Missing Name
+2026-06-25 17:56:10 WARN  - Registration failed: Missing Name
+2026-06-25 17:56:11 INFO  - Register Test COMPLETED!
+2026-06-25 17:56:12 INFO  - Browser closed successfully!
+2026-06-25 17:56:13 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 18:01:08 INFO  - Config loaded — Environment: QA
+2026-06-25 18:01:32 INFO  - Browser opened: https://automationexercise.com
+2026-06-25 18:01:34 INFO  - Extent Report initialized!
+2026-06-25 18:01:40 INFO  - Total test rows: 3
+2026-06-25 18:01:40 INFO  - =============================
+2026-06-25 18:01:40 INFO  - Running Test: Valid Login
+2026-06-25 18:01:40 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 18:01:40 INFO  - Total register test rows: 2
+2026-06-25 18:01:40 INFO  - =============================
+2026-06-25 18:01:40 INFO  - Running Test: Valid Registrati
+2026-06-25 18:02:50 INFO  - Registration PASSED: Valid Registrati
+2026-06-25 18:03:22 INFO  - Clicked continue button
+2026-06-25 18:03:25 INFO  - Account deleted after test
+2026-06-25 18:03:26 INFO  - =============================
+2026-06-25 18:03:26 INFO  - Running Test: Missing Name
+2026-06-25 18:04:04 WARN  - Registration failed: Missing Name
+2026-06-25 18:04:04 INFO  - Register Test COMPLETED!
+2026-06-25 18:04:22 INFO  - Browser closed successfully!
+2026-06-25 18:04:24 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 18:07:09 INFO  - Config loaded — Environment: QA
+2026-06-25 18:08:45 INFO  - Browser opened: https://automationexercise.com
+2026-06-25 18:08:48 INFO  - Extent Report initialized!
+2026-06-25 18:08:53 INFO  - Total test rows: 3
+2026-06-25 18:08:53 INFO  - =============================
+2026-06-25 18:08:53 INFO  - Running Test: Valid Login
+2026-06-25 18:08:53 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 18:11:20 INFO  - Completed: Valid Login
+2026-06-25 18:11:26 INFO  - Logged out successfully
+2026-06-25 18:11:26 INFO  - =============================
+2026-06-25 18:11:26 INFO  - Running Test: Invalid Email
+2026-06-25 18:11:26 INFO  - Email: wrongemail@gmail.com
+2026-06-25 18:12:04 INFO  - Completed: Invalid Email
+2026-06-25 18:12:14 WARN  - Login failed as expected: Invalid Email
+2026-06-25 18:12:15 INFO  - =============================
+2026-06-25 18:12:15 INFO  - Running Test: Invalid Password
+2026-06-25 18:12:15 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 18:12:44 INFO  - Completed: Invalid Password
+2026-06-25 18:12:54 WARN  - Login failed as expected: Invalid Password
+2026-06-25 18:12:54 INFO  - =============================
+2026-06-25 18:12:54 INFO  - Data Driven Test COMPLETED!
+2026-06-25 18:12:55 INFO  - Total register test rows: 2
+2026-06-25 18:12:55 INFO  - =============================
+2026-06-25 18:12:55 INFO  - Running Test: Valid Registrati
+2026-06-25 18:12:56 INFO  - Browser closed successfully!
+2026-06-25 18:12:58 INFO  - Report saved to reports/AutomationReport.html
+2026-06-25 18:21:22 INFO  - Config loaded — Environment: QA
+2026-06-25 18:22:45 INFO  - Browser opened for: LoginTest
+2026-06-25 18:22:50 INFO  - Extent Report initialized!
+2026-06-25 18:22:54 INFO  - Total test rows: 3
+2026-06-25 18:22:54 INFO  - =============================
+2026-06-25 18:22:54 INFO  - Running Test: Valid Login
+2026-06-25 18:22:54 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 18:25:43 INFO  - Completed: Valid Login
+2026-06-25 18:25:52 INFO  - Logged out successfully
+2026-06-25 18:25:52 INFO  - =============================
+2026-06-25 18:25:52 INFO  - Running Test: Invalid Email
+2026-06-25 18:25:52 INFO  - Email: wrongemail@gmail.com
+2026-06-25 18:26:13 INFO  - Completed: Invalid Email
+2026-06-25 18:26:23 WARN  - Login failed as expected: Invalid Email
+2026-06-25 18:26:23 INFO  - =============================
+2026-06-25 18:26:23 INFO  - Running Test: Invalid Password
+2026-06-25 18:26:23 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 18:26:41 INFO  - Completed: Invalid Password
+2026-06-25 18:26:51 WARN  - Login failed as expected: Invalid Password
+2026-06-25 18:26:51 INFO  - =============================
+2026-06-25 18:26:51 INFO  - Data Driven Test COMPLETED!
+2026-06-25 18:26:53 INFO  - Browser closed for: LoginTest
+2026-06-25 18:26:54 INFO  - Report saved!
+2026-06-25 18:26:54 INFO  - Config loaded — Environment: QA
+2026-06-25 18:27:24 INFO  - Browser opened for: RegisterTest
+2026-06-25 18:27:24 INFO  - Extent Report initialized!
+2026-06-25 18:27:24 INFO  - Total register test rows: 2
+2026-06-25 18:27:24 INFO  - =============================
+2026-06-25 18:27:24 INFO  - Running Test: Valid Registrati
+2026-06-25 18:28:36 INFO  - Registration PASSED: Valid Registrati
+2026-06-25 18:30:17 INFO  - Clicked continue button
+2026-06-25 18:30:18 INFO  - Account deleted after test
+2026-06-25 18:30:18 INFO  - =============================
+2026-06-25 18:30:18 INFO  - Running Test: Missing Name
+2026-06-25 18:31:21 WARN  - Registration failed: Missing Name
+2026-06-25 18:31:22 INFO  - Register Test COMPLETED!
+2026-06-25 18:31:34 INFO  - Browser closed for: RegisterTest
+2026-06-25 18:31:34 INFO  - Report saved!
+2026-06-25 22:32:23 INFO  - Config loaded — Environment: QA
+2026-06-25 22:35:25 INFO  - Browser opened for: LoginTest
+2026-06-25 22:35:27 INFO  - Extent Report initialized!
+2026-06-25 22:35:34 INFO  - Total test rows: 3
+2026-06-25 22:35:34 INFO  - =============================
+2026-06-25 22:35:34 INFO  - Running Test: Valid Login
+2026-06-25 22:35:34 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 22:38:21 INFO  - Completed: Valid Login
+2026-06-25 22:38:23 INFO  - Logged out successfully
+2026-06-25 22:38:23 INFO  - =============================
+2026-06-25 22:38:23 INFO  - Running Test: Invalid Email
+2026-06-25 22:38:23 INFO  - Email: wrongemail@gmail.com
+2026-06-25 22:39:23 INFO  - Completed: Invalid Email
+2026-06-25 22:39:33 WARN  - Login failed as expected: Invalid Email
+2026-06-25 22:39:34 INFO  - =============================
+2026-06-25 22:39:34 INFO  - Running Test: Invalid Password
+2026-06-25 22:39:34 INFO  - Email: kotianbs4@gmail.com
+2026-06-25 22:39:59 INFO  - Completed: Invalid Password
+2026-06-25 22:40:10 WARN  - Login failed as expected: Invalid Password
+2026-06-25 22:40:10 INFO  - =============================
+2026-06-25 22:40:10 INFO  - Data Driven Test COMPLETED!
+2026-06-25 22:40:14 INFO  - Browser closed for: LoginTest
+2026-06-25 22:40:17 INFO  - Report saved!
+2026-06-25 22:40:17 INFO  - Config loaded — Environment: QA
+2026-06-25 22:40:38 INFO  - Browser opened for: RegisterTest
+2026-06-25 22:40:38 INFO  - Extent Report initialized!
+2026-06-25 22:40:39 INFO  - Total register test rows: 2
+2026-06-25 22:40:39 INFO  - =============================
+2026-06-25 22:40:39 INFO  - Running Test: Valid Registrati
+2026-06-25 22:42:51 WARN  - Registration failed: Valid Registrati
+2026-06-25 22:42:52 INFO  - =============================
+2026-06-25 22:42:52 INFO  - Running Test: Missing Name
+2026-06-25 22:43:35 WARN  - Registration failed: Missing Name
+2026-06-25 22:43:36 INFO  - Register Test COMPLETED!
+2026-06-25 22:43:39 INFO  - Browser closed for: RegisterTest
+2026-06-25 22:43:39 INFO  - Report saved!

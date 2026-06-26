@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation Suite" parallel="none">
+
+    <test name="All Tests">
+        <classes>
+            <class name="com.automationexercise.tests.LoginTest">
+                <methods>
+                    <include name="testLoginWithExcelData"/>
+                </methods>
+            </class>
+            <class name="com.automationexercise.tests.RegisterTest">
+                <methods>
+                    <include name="testRegisterWithExcelData"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
